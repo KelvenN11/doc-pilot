@@ -5,9 +5,9 @@ __pycache__/
 venv/
 
 # Local data
-data/raw/
-data/parsed/
-data/chunks/
+rag-agent/data/raw/
+rag-agent/data/parsed/
+rag-agent/data/chunks/
 
 # Chroma local database
 chroma_db/
